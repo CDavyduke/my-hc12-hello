@@ -1,0 +1,1 @@
+Basic "hello, world" application for the HC12.
